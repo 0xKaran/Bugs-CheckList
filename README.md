@@ -1,2 +1,2 @@
 # Bugs-CheckList
-List of bugs scope during bug hunting
+Other uncommon bugs, findings, methodologies by other researchers.
